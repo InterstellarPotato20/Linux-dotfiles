@@ -1,0 +1,6 @@
+tint2 &
+compton &
+nitrogen --restore &
+xdotool key XF86MonBrightnessDown &
+brightnessctl s 10% &
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
