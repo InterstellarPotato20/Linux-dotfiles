@@ -7,7 +7,7 @@ Dotfiles modified for personal use. To be saved in ~/.config. Currently includes
 Wallpaper: https://github.com/InterstellarPotato20/Linux-dotfiles/blob/main/pexels-pixabay-258109.jpg (original source not found) 
 
 
-## Edits in /openbox/rc.xml for keybindings
+## Edited keybindings in /openbox/rc.xml
 *Note: (W = Windows/Super key)*
 
 W-q = firefox
