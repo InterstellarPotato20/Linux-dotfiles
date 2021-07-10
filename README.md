@@ -29,6 +29,8 @@ W-c = mousepad
 
 ## Other Modifications
 
+```apt-get install xfce nemo openbox compton nitrogen brightnessctl```
+
 Compositor: Compton
 
 Icons: Papirus-Dark (https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
