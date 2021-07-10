@@ -2,6 +2,9 @@
 Dotfiles modified for personal use. To be saved in ~/.config. Currently includes files for Openbox WM and tint2 panel.
 
 
+## Desktop Screenshot 
+![Screenshot Debian10 with OB](https://github.com/InterstellarPotato20/Linux-dotfiles/blob/main/Screenshot%20Deban10%20with%20OB.png)
+
 ## Edits in /openbox/rc.xml for keybindings
 *Note: (W = Windows/Super key)*
 
@@ -20,3 +23,7 @@ W-l = openbox --exit
 W-x = xfce4-appfinder
 
 W-c = mousepad
+
+### Compositor used: Compton
+
+### Openbox Menu generated using Menumaker (http://menumaker.sourceforge.net/)
