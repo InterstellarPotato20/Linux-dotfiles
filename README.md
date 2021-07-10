@@ -27,6 +27,14 @@ W-x = xfce4-appfinder
 W-c = mousepad
 
 
-### Compositor used: Compton
+## Other Modifications
 
-### Openbox Menu generated using Menumaker (http://menumaker.sourceforge.net/)
+Compositor: Compton
+
+Icons: Papirus-Dark (https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+
+OGTK Theme: Arc Dark (https://github.com/horst3180/arc-theme)
+
+OB theme: Nightmare
+
+Openbox Menu generated using Menumaker (http://menumaker.sourceforge.net/)
