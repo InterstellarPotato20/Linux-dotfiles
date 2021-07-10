@@ -4,6 +4,8 @@ Dotfiles modified for personal use. To be saved in ~/.config. Currently includes
 
 ## Desktop Screenshot 
 ![Screenshot Debian10 with OB](https://github.com/InterstellarPotato20/Linux-dotfiles/blob/main/Screenshot%20Deban10%20with%20OB.png)
+Wallpaper: https://github.com/InterstellarPotato20/Linux-dotfiles/blob/main/pexels-pixabay-258109.jpg (original source not found) 
+
 
 ## Edits in /openbox/rc.xml for keybindings
 *Note: (W = Windows/Super key)*
@@ -23,6 +25,7 @@ W-l = openbox --exit
 W-x = xfce4-appfinder
 
 W-c = mousepad
+
 
 ### Compositor used: Compton
 
