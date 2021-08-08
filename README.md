@@ -35,7 +35,7 @@ Compositor: Compton
 
 Icons: Papirus-Dark (https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
-OGTK Theme: Arc Dark (https://github.com/horst3180/arc-theme)
+GTK Theme: Arc Dark (https://github.com/horst3180/arc-theme)
 
 OB theme: Nightmare
 
